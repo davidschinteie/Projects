@@ -1,8 +1,13 @@
 # Projects
 ## A selection of coding projects, with the more recent at the top:
 
+**ING New Building Page** 
+- development timeline: Dec 2019
+- important landing Page project for the new ING office building
+___
+
 **[Youniq](http://172.104.248.203/)** 
-- development timeline: June - August 2019
+- development timeline: Aug - Oct 2019
 - important wordpress project for a [Real Estate company from Germany](https://joyn-living.com/)
 - I was responsible with the final dev implementation, dev workflow, reviewing important git commits and PRs
 ___
